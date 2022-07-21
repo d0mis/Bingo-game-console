@@ -1,0 +1,15 @@
+C:\Users\dmdom\source\repos\bing test\bing test\bin\Debug\net6.0\Bingo_Console.exe
+C:\Users\dmdom\source\repos\bing test\bing test\bin\Debug\net6.0\Bingo_Console.deps.json
+C:\Users\dmdom\source\repos\bing test\bing test\bin\Debug\net6.0\Bingo_Console.runtimeconfig.json
+C:\Users\dmdom\source\repos\bing test\bing test\bin\Debug\net6.0\Bingo_Console.dll
+C:\Users\dmdom\source\repos\bing test\bing test\bin\Debug\net6.0\Bingo_Console.pdb
+C:\Users\dmdom\source\repos\bing test\bing test\obj\Debug\net6.0\Bingo_Console.csproj.AssemblyReference.cache
+C:\Users\dmdom\source\repos\bing test\bing test\obj\Debug\net6.0\Bingo_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmdom\source\repos\bing test\bing test\obj\Debug\net6.0\Bingo_Console.AssemblyInfoInputs.cache
+C:\Users\dmdom\source\repos\bing test\bing test\obj\Debug\net6.0\Bingo_Console.AssemblyInfo.cs
+C:\Users\dmdom\source\repos\bing test\bing test\obj\Debug\net6.0\Bingo_Console.csproj.CoreCompileInputs.cache
+C:\Users\dmdom\source\repos\bing test\bing test\obj\Debug\net6.0\Bingo_Console.dll
+C:\Users\dmdom\source\repos\bing test\bing test\obj\Debug\net6.0\refint\Bingo_Console.dll
+C:\Users\dmdom\source\repos\bing test\bing test\obj\Debug\net6.0\Bingo_Console.pdb
+C:\Users\dmdom\source\repos\bing test\bing test\obj\Debug\net6.0\Bingo_Console.genruntimeconfig.cache
+C:\Users\dmdom\source\repos\bing test\bing test\obj\Debug\net6.0\ref\Bingo_Console.dll

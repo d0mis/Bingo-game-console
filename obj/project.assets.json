@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dmdom\\source\\repos\\bing test\\bing test\\bing test.csproj",
-      "projectName": "bing test",
-      "projectPath": "C:\\Users\\dmdom\\source\\repos\\bing test\\bing test\\bing test.csproj",
+      "projectUniqueName": "C:\\Users\\dmdom\\source\\repos\\bing test\\bing test\\Bingo_Console.csproj",
+      "projectName": "Bingo_Console",
+      "projectPath": "C:\\Users\\dmdom\\source\\repos\\bing test\\bing test\\Bingo_Console.csproj",
       "packagesPath": "C:\\Users\\dmdom\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\dmdom\\source\\repos\\bing test\\bing test\\obj\\",
       "projectStyle": "PackageReference",
